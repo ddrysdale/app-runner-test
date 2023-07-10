@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\app-runner-test.props" />
+</Project>
