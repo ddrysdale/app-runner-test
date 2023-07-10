@@ -18,6 +18,6 @@ app.UseSwaggerUI();
 app.UseAuthorization();
 
 app.MapControllers();
-app.MapHealthChecks("/api/health");
+app.MapHealthChecks("/");
 
 app.Run();
