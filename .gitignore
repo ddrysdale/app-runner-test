@@ -9,6 +9,8 @@
 .vscode/
 .idea/
 [Pp]roperties/
+out/
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
